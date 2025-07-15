@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Athulya Anil 👋</h1>
 
-<!--
-**athulya-anil/athulya-anil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/athulya-anil">LinkedIn</a> •
+  <a href="mailto:athulyaanil@umass.edu">Email</a> •
+  <a href="https://athulya-anil.github.io/resume.pdf">Resume</a>
+  <a href="tel:+14134901300">+1 413 490 1300</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- Currently a **Sr. Business Intelligence Engineering Intern** at **Blue Cross Blue Shield**
+- MS in Computer Science @ **University of Massachusetts Amherst**
+- Passionate about **Data Engineering**, **Streaming Systems**, and **ML Infrastructure**
+- Previously worked at **UnitedHealth Group** as Associate Data Engineering Analyst
+- Tech Stack: `Python`, `SQL`, `AWS`, `Flink`, `Airflow`, `Spark`, `PostgreSQL`, `React`
