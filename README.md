@@ -11,7 +11,6 @@
 
 ### 👩‍💻 About Me
 
-- Currently a **Sr. Business Intelligence Engineering Intern** at **Blue Cross Blue Shield**
 - MS in Computer Science @ **University of Massachusetts Amherst**
 - Passionate about **Data Engineering**, **Streaming Systems**, and **ML Infrastructure**
 - Previously worked at **UnitedHealth Group** as Associate Data Engineering Analyst
