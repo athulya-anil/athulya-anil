@@ -38,5 +38,5 @@
 `Python` `SQL` `C++` `Scala` `JavaScript` `TypeScript` `Node.js` `React` `REST APIs`
 
 **AI Safety & Evaluation**  
-`Responsible AI` `LLM Evaluation` `RAG Evaluation` `Hallucination Detection`
-`Groundedness` `Faithfulness` `Guardrails` `Adversarial Testing`
+`Responsible AI` `LLM Evaluation` `Retrieval Evaluation` `Hallucination Detection`
+`Groundedness` `Faithfulness` `Guardrails`
