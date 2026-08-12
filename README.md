@@ -14,7 +14,7 @@
 - Interested in **Search, Retrieval, Ranking, Recommendation Systems, and Agentic AI**
 - Background in **predictive modeling, large-scale data systems, and ML infrastructure**
 - Invited speaker at **NODES AI '26** for my work on Agentic GraphRAG
-- **2× Hackathon Winner**: HackUMass XIII & Hack(H)er413 2026
+- **2x Hackathon Winner**: HackUMass XIII & Hack(H)er413 2026
 
 ### 🛠️ Technical Focus
 
