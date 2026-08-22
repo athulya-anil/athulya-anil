@@ -1,15 +1,16 @@
 # Hi there, I'm Athulya Anil 👋
 
 **Machine Learning Engineer**  
-*Search · Retrieval · Ranking · Recommendation · Agentic Systems*
+*ML Systems · Search · Retrieval · Ranking · Agentic AI*
 
-[Portfolio](https://athulya-anil.github.io) • [LinkedIn](https://www.linkedin.com/in/athulya-anil) • [Email](mailto:athulyaanil@umass.edu) • [Resume](https://athulya-anil.github.io/resume.pdf)
+[Portfolio](https://athulya.tech) • [LinkedIn](https://www.linkedin.com/in/athulya-anil) • [Email](mailto:athulyaanil@umass.edu) • [Resume](https://athulya-anil.github.io/resume.pdf)
 
 ---
 
 ### 👩‍💻 About Me
 
 - M.S. in Computer Science from **University of Massachusetts Amherst**
+- Currently building production AI/ML systems at **Trek Health**
 - AI Research Extern at **IBM Research**, working on agentic deep research and information retrieval
 - Interested in **Search, Retrieval, Ranking, Recommendation Systems, and Agentic AI**
 - Background in **predictive modeling, large-scale data systems, and ML infrastructure**
