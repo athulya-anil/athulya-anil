@@ -10,7 +10,6 @@
 ### 👩‍💻 About Me
 
 - M.S. in Computer Science from **University of Massachusetts Amherst**
-- Currently building production AI/ML systems at **Trek Health**
 - AI Research Extern at **IBM Research**, working on agentic deep research and information retrieval
 - Interested in **Search, Retrieval, Ranking, Recommendation Systems, and Agentic AI**
 - Background in **predictive modeling, large-scale data systems, and ML infrastructure**
